@@ -1,1 +1,2 @@
 # odin-recipes
+In this project odin-recipes ia m going to make a website using the knowledge i learned along the way such as headings lists odered and unodered linking two pages adding images and few others things 
